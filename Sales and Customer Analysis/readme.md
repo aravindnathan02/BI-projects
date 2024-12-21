@@ -47,7 +47,7 @@ Top 10 Customers By Profit: \
  – Present the top 10 customers who have generated the highest profits for the company. \
  – Show additional information like rank, number of orders, current sales, current profit and the last order date. 
 
-**Design & Interactivity Requirements** \
+**Design & Interactivity Requirements** 
 
 Dashboard Dynamic: \
  – The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year. \
