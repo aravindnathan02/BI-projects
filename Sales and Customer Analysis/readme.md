@@ -14,7 +14,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 Sales Trends: \
  – Present the data for each KPI on a monthly basis for both the current year and the previous year. \
- – Identify months with highest and lowest sales and make them easy to recognize. \
+ – Identify months with highest and lowest sales and make them easy to recognize. 
 
 Product Subcategory Comparison: \
  – Compare sales performance by different product subcategories for the current year and the previous year. \
@@ -45,14 +45,14 @@ Represent the distribution of customers based on the number of orders they have 
  
 Top 10 Customers By Profit: \
  – Present the top 10 customers who have generated the highest profits for the company. \
- – Show additional information like rank, number of orders, current sales, current profit and the last order date. \
+ – Show additional information like rank, number of orders, current sales, current profit and the last order date. 
 
 **Design & Interactivity Requirements** \
 
 Dashboard Dynamic: \
  – The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year. \
  – Provide users with the ability to navigate between the dashboards easily. \
- – Make the charts and graphs interactive, enabling users to filter data using the charts. \
+ – Make the charts and graphs interactive, enabling users to filter data using the charts. 
 
 Data Filters: \
-Allow users to filter data by product information like category and subcategory and by location information like region, state and city. \
+Allow users to filter data by product information like category and subcategory and by location information like region, state and city. 
