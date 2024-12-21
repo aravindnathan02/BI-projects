@@ -29,7 +29,7 @@ Weekly Trends for Sales & Profit: \
 ## **Customer Dashboard** | Requirements
 
 Dashboard Purpose: \
-The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction. \
+The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction. 
 
 **Key Requirements** 
 
@@ -41,7 +41,7 @@ Customer Trends: \
  – Identify months with highest and lowest sales and make them easy to recognize. 
 
 Customer Distribution by Number of Orders: \
-Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty and engagement. \
+Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty and engagement. 
  
 Top 10 Customers By Profit: \
  – Present the top 10 customers who have generated the highest profits for the company. \
